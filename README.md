@@ -14,7 +14,7 @@ cinst -y choco.config
 
 ## Clinent側のPCのみ設定
 
-- chgkey.iniはcapslockキーをF13に設定
+- `capslock_to_f13.ini`はcapslockキーをF13に設定
 
 # autohotkey
 
